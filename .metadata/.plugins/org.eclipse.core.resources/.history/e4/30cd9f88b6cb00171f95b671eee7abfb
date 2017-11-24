@@ -1,0 +1,11 @@
+package vezba;
+
+public class Abc1 {
+	
+	
+	public static void main(String[] args)
+	{
+		Abc1 obj = new Abc1();
+	}
+	
+}

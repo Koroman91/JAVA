@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Frame1.java&apos; to &apos;Slika/src&apos;&#x0D;&#x0A;- Original project: &apos;Grafika&apos;&#x0D;&#x0A;- Destination element: &apos;Slika/src&apos;&#x0D;&#x0A;- Original element: &apos;Frame1.java&apos;" description="Copy compilation unit" destination="=Slika/src" element1="/src&lt;{Frame1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1457959367598" units="1" version="1.0"/>
+</session>

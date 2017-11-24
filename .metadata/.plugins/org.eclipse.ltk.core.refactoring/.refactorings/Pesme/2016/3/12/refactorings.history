@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;Jukebox1.getSongs().reader&apos; in &apos;Jukebox1.getSongs()&apos;&#x0D;&#x0A;- Original project: &apos;Pesme&apos;&#x0D;&#x0A;- Original element: &apos;Jukebox1.getSongs().reader&apos;" description="Inline local variable &apos;reader&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;{Jukebox1.java" selection="799 49" stamp="1458308767892" version="1.0"/>
+</session>

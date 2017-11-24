@@ -1,0 +1,15 @@
+package vezba;
+
+public class Proba {
+	
+	public static void main(String[] args)
+	{
+		int a = 30;
+		
+		for (a=1;a<a/2;a++)
+		{
+			System.out.println(a);
+		}
+	}
+
+}

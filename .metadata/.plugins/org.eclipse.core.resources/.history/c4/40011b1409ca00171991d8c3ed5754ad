@@ -1,0 +1,47 @@
+package vezba;
+
+public class Proba {
+	
+	public static void main(String[] args)
+	{
+		int a = 23;
+		
+		
+		int b[] = new int[5];
+		b[0]=1;
+		b[1]=2;
+		b[2]=3;
+		b[3]=4;
+		b[4]=5;
+		
+		
+		for (int j=0; j<5; j++)
+		{
+                if(j==b[j]/2)
+                {
+				System.out.println(b[j]);
+				break;
+                }
+		}
+		
+		
+		for (int i=1;i<=a;i++)
+		{
+			if (i == a/2)
+			{
+			System.out.println("Half is: " +i+ "!");
+			}
+		}
+		
+		
+		
+		
+		
+	}
+
+	
+	
+}	
+	
+
+

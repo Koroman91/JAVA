@@ -1,0 +1,16 @@
+package vezba;
+
+public class Proba {
+	
+	public static void main(String[] args)
+	{
+		int a = 30;
+		
+		for (int i=1;i<=a/2;i++)
+		{
+			System.out.println(i);
+			break;
+		}
+	}
+
+}

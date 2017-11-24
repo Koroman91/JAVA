@@ -1,0 +1,47 @@
+
+package vezba;
+
+import java.util.Scanner;
+
+
+public class Proba2 {
+	
+	public static void main (String[] args)
+	{
+        int firstNumber,secondNumber, numOper;
+
+		Scanner ins = new Scanner(System.in);
+		numOper = ins.nextInt();
+		System.out.println("Enter first number:");
+		firstNumber = ins.nextInt();
+		System.out.println("Enter second number:");
+		secondNumber = ins.nextInt();
+        calc(numOper, firstNumber,secondNumber);
+	
+	}
+		public static void calc(int operator, int a, int b){
+		int res;
+		
+		switch(operator)
+		{
+		case 1:
+			res = a+b;
+			System.out.println("Result:" +res);
+			break;
+		case 2:
+			res = a-b;
+			System.out.println("Result:" +res);
+			break;
+		case 3:
+			res = a*b;
+			System.out.println("Result:" +res);
+			break;
+		case 4:
+			res = a/b;
+		    System.out.println("Result:" +res);
+			break;
+		}
+				
+	}
+
+}
